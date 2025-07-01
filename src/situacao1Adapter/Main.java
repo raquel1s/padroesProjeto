@@ -8,7 +8,7 @@ public class Main {
 //        Você precisa integrar um sistema de pagamento antigo com uma nova API moderna.
 //        As interfaces são diferentes. Como você faria para reaproveitar o código antigo
 //        sem alterar sua estrutura?
-//        Pra reaproveitar o sistema antigo sem mudar ele, eu criei um adaptador
+//        Para reaproveitar o sistema antigo sem mudar ele, eu criei um adaptador
 //        (PagamentoAdaptador) que faz a ponte entre o código novo e o antigo.
 //        Assim, mesmo com interfaces diferentes, consigo usar o sistema antigo
 //        integrando com o novo, sem precisar mexer na estrutura.
